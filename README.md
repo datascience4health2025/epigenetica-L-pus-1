@@ -25,12 +25,18 @@ DNMT1	Mantém metilação do DNA	Restaura silenciamento de genes autoimunes	Zhao
 HDACs	Reprime genes inflamatórios por desacetilação	Reduz ativação de citocinas	Reilly et al., 2021
 HATs	Ativa expressão gênica	Reequilibra transcrição de citocinas	Hedrich & Tsokos, 2011
 miR-146a / miR-155	Regula mRNAs inflamatórios	Modula vias de NF-κB e apoptose	Tang et al., 2021
+
 5. Scorecard Epigenético do LES
 Categoria	Descrição	Impacto Potencial
+
 Oportunidades	Identificação de alvos moleculares precisos (DNMT1, HDACs, miR-146a); desenvolvimento de fármacos epigenéticos seletivos; aplicação combinada com terapias imunomoduladoras.	Alto
+
 Pontos Fortes	Avanço na caracterização epigenética do LES; modelos experimentais definidos; resultados positivos com inibidores de HDAC.	Alto
+
 Riscos	Possível inibição de genes supressores tumorais (p53, p21); efeitos pleiotrópicos; toxicidade cumulativa.	Moderado a Alto
+
 Pontos Fracos	Falta de seletividade; escassez de ensaios clínicos; dificuldade em atingir tecidos-alvo específicos.	Moderado
+
 6. Conclusão
 
 O LES representa um modelo paradigmático de desregulação epigenética multifatorial.
