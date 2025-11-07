@@ -26,7 +26,7 @@ HDACs	Reprime genes inflamatórios por desacetilação	Reduz ativação de citoc
 HATs	Ativa expressão gênica	Reequilibra transcrição de citocinas	Hedrich & Tsokos, 2011
 miR-146a / miR-155	Regula mRNAs inflamatórios	Modula vias de NF-κB e apoptose	Tang et al., 2021
 
-5. Scorecard Epigenético do LES
+Análise Epigenética do LES
 Categoria	Descrição	Impacto Potencial
 
 Oportunidades	Identificação de alvos moleculares precisos (DNMT1, HDACs, miR-146a); desenvolvimento de fármacos epigenéticos seletivos; aplicação combinada com terapias imunomoduladoras.	Alto
