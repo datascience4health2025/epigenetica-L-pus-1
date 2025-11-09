@@ -19,7 +19,7 @@ Alterações nas histonas H3 e H4 em regiões promotoras de IFN-γ e receptores 
 MiRNAs como miR-146a e miR-155 regulam genes inflamatórios (IRAK1, TRAF6).
 Sua desregulação está associada à produção de autoanticorpos e resistência à apoptose.
 
-4. Perspectivas Terapêuticas e Proteínas-Alvo
+Perspectivas Terapêuticas e Proteínas-Alvo
 Proteína/Classe	Função Principal	Efeito Esperado	Evidência
 DNMT1	Mantém metilação do DNA	Restaura silenciamento de genes autoimunes	Zhao et al., 2014
 HDACs	Reprime genes inflamatórios por desacetilação	Reduz ativação de citocinas	Reilly et al., 2021
@@ -37,7 +37,7 @@ Riscos	Possível inibição de genes supressores tumorais (p53, p21); efeitos pl
 
 Pontos Fracos	Falta de seletividade; escassez de ensaios clínicos; dificuldade em atingir tecidos-alvo específicos.	Moderado
 
-6. Conclusão
+Conclusão
 
 O LES representa um modelo paradigmático de desregulação epigenética multifatorial.
 A identificação de DNMT1, HDACs e miRNAs como pontos de controle centrais permite propor terapias de reprogramação epigenética capazes de reverter a autoimunidade sem imunossupressão total.
