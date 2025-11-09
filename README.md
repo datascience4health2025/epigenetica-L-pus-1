@@ -21,7 +21,7 @@ Sua desregulação está associada à produção de autoanticorpos e resistênci
 
 Perspectivas Terapêuticas e Proteínas-Alvo
 
-Proteína/Classe	Função Principal	Efeito Esperado	Evidência
+Proteína/Classe-	Função Principal-	Efeito Esperado\Evidência
 
 DNMT1	
 Mantém metilação do DNA
