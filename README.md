@@ -20,11 +20,23 @@ MiRNAs como miR-146a e miR-155 regulam genes inflamatórios (IRAK1, TRAF6).
 Sua desregulação está associada à produção de autoanticorpos e resistência à apoptose.
 
 Perspectivas Terapêuticas e Proteínas-Alvo
+
 Proteína/Classe	Função Principal	Efeito Esperado	Evidência
-DNMT1	Mantém metilação do DNA	Restaura silenciamento de genes autoimunes	Zhao et al., 2014
-HDACs	Reprime genes inflamatórios por desacetilação	Reduz ativação de citocinas	Reilly et al., 2021
-HATs	Ativa expressão gênica	Reequilibra transcrição de citocinas	Hedrich & Tsokos, 2011
-miR-146a / miR-155	Regula mRNAs inflamatórios	Modula vias de NF-κB e apoptose	Tang et al., 2021
+
+DNMT1	
+Mantém metilação do DNA
+Restaura silenciamento de genes autoimunes (	Zhao et al., 2014)
+
+HDACs
+Reprime genes inflamatórios por desacetilação	
+Reduz ativação de citocinas	(Reilly et al., 2021)
+
+HATs	
+Ativa expressão gênica
+Reequilibra transcrição de citocinas (	Hedrich & Tsokos, 2011)
+
+miR-146a / miR-155	
+Regula mRNAs inflamatórios	Modula vias de NF-κB e apoptose	(Tang et al., 2021)
 
 Análise Epigenética do LES
 Categoria	Descrição	Impacto Potencial
